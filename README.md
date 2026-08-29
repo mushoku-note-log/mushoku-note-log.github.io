@@ -4,6 +4,10 @@
 
 GitHub Pagesのルートを、Patreon購入前にAICo Creation LabのAIアート作品を確認する無料プレビューカタログとして使います。
 
+## Display Order / 表示順
+
+The public top page is grouped in this order: logo-free free stock collections, a divider, Birei-logo artwork collections, a divider, and manga galleries at the bottom. / 公開トップページは、ロゴなしフリー素材、区切り線、美麗ロゴあり作品集、区切り線、漫画ギャラリーの順に並べています。
+
 ジャンル別ギャラリーは `SNS-Pinterest` 側で公開し、外部の作品コレクション導線はPatreonに集約しています。トップページには検索スニペット向けの説明、FAQ構造化データ、ジャンル別ギャラリーへの内部リンクを配置しています。
 
 Images that do not fill the 16:9 frame are portrait-ratio originals. Currently, most new images are created in 16:9 except manga pages, which use an A4-style layout. / 枠内に収まっていない画像は縦長比率の画像です。現在、漫画（A4）以外では16:9の画像をメインに作っています。
