@@ -1,8 +1,5 @@
-# mushoku-note-log GitHub Pages
+# AICo Creation Lab AI Art Gallery
 
-Root GitHub Pages site for Pinterest domain verification and AICo Creation Lab cross-links.
+[トップページ](https://mushoku-note-log.github.io/) | [Patreonで作品を見る](https://www.patreon.com/cw/AICoCreationLab)
 
-- Website: https://mushoku-note-log.github.io/
-- Pinterest gallery: https://mushoku-note-log.github.io/SNS-Pinterest/
-- Pinterest RSS: https://mushoku-note-log.github.io/SNS-Pinterest/rss.xml
-- Patreon: http://patreon.com/cw/AICoCreationLab
+GitHub Pagesのルートを、AICo Creation LabのAIアートギャラリー入口として使います。ジャンル別ギャラリーは `SNS-Pinterest` 側で公開し、外部の作品コレクション導線はPatreonに集約しています。
