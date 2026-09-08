@@ -106,12 +106,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mushoku-note-log.github.io/SNS-Pinterest/docs/gallery/ogura-hyakunin-isshu.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mushoku-note-log.github.io/SNS-Pinterest/docs/gallery/stunning-3d-figure-of-a-beautiful-girl.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mushoku-note-log.github.io/SNS-Pinterest/docs/gallery/stunning-gothic-robot.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mushoku-note-log.github.io/SNS-Pinterest/docs/gallery/wallpaper.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
